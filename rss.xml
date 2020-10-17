@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>易雾山庄</title>
+    <link>https://evling2020.github.io</link>
+    <atom:link href="https://evling2020.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>家庭基建，生活乐享</description>
+    <generator>Solo, v4.3.1, https://b3log.org/solo</generator>
+    <lastBuildDate>Sun, 18 Oct 2020 00:23:37 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <item>
+      <title>家庭基建不完全指南</title>
+      <link>https://evling2020.github.io/articles/2020/10/13/1602548950038.html</link>
+      <description><![CDATA[<p>出于兴趣爱好，更出于是对自己劳动成果的数字化保留，易雾君经历过惨痛的数据丢失，很 2 地将 Excel 的主密码放到了 Excel 里边，由于主密码是随机的，也是临时产生，还未记住，当然磁盘加密的密码也存储在了 Excel 里，自己给自己锁住了，导致 2017 年和 2018 年积攒的数据全给弄没了，故期望建设一套完善的家庭网络系统来提升生活便利性，同时能保障生活中积攒的点滴长久保存。</p>]]></description>
+      <author>evling</author>
+      <guid>https://evling2020.github.io/articles/2020/10/13/1602548950038.html</guid>
+      <category>家庭基建</category>
+      <category>家庭网络</category>
+      <pubDate>Sat, 17 Oct 2020 14:43:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>易雾君</title>
+      <link>https://evling2020.github.io/articles/2020/10/09/1602251584960.html</link>
+      <description><![CDATA[<h2>自封称号</h2>
+<p>低级网络玩家</p>
+<p><strong>Email:</strong> <a href="mailto:evling2020@gmail.com" target="_blank">evling2020@gmail.com</a></p>
+<p><strong>Phone:</strong> +1 (929) 357-4155</p>
+<p><strong>Github:</strong> <a href="https://github.com/evling2020/" target="_blank">https://github.com/evling2020/</a></p>]]></description>
+      <author>evling</author>
+      <guid>https://evling2020.github.io/articles/2020/10/09/1602251584960.html</guid>
+      <category>简介</category>
+      <pubDate>Sat, 17 Oct 2020 13:51:59 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
